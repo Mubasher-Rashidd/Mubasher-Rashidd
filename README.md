@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubasher Rashid</h1>
-<h3 align="center">Information Technology</h3>
+<h3 align="center">Data Analyst | Information Technology Instructor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdfgfd&label=Profile%20views&color=0e75b6&style=flat" alt="gdfgfd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdfgfd" alt="gdfgfd" /></a> </p>
 
 - 🔭 I’m currently working on **eaching IT and exploring data analytics.**
 
