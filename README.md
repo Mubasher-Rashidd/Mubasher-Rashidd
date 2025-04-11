@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mubasher Rashid</h1>
 <h3 align="center">Data Analyst | Information Technology Instructor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gdfgfd&label=Profile%20views&color=0e75b6&style=flat" alt="gdfgfd" /> </p>
+- 🔭 I’m currently working as **Information Technology Instructor at King Saud University.**
 
-- 🔭 I’m currently working on **eaching IT and exploring data analytics.**
+- 🌱 I’m Passionate About: **Data Analytics & Turning Raw Data into Actionable Insights.**
 
-- 🌱 I’m currently learning **QL, Power BI, Exc**
+- 🤝 Career Goal: **To grow into a skilled Data Analyst and work on impactful, data-driven projects.**
 
-- 👯 I’m looking to collaborate on **Passionate about transforming raw**
+- 🗃️ Data Tools: **SQL • Power BI • Excel**
 
-- 🤝 I’m looking for help with **g opportun**
+- 🐍 Programming: **Python • JavaScript.**
 
-- 💬 Ask me about **hon, JavaS**
-
-- 📫 How to reach me **ras**
+- 🔎 Other Interests: **Data Cleaning • Data Visualization • Interactive Dashboards.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
