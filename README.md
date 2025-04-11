@@ -15,10 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fgfgdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fgfgdf" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fgfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fgfg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fgfgf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fgfgf" height="30" width="40" /></a>
-<a href="https://discord.gg/fgfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fgfg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mubasher-rashid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubasher-rashid" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rashidmubashir5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rashidmubashir5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
